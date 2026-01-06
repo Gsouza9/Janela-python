@@ -1,4 +1,4 @@
-# 🚀 Projeto
+## 🚀 Projeto
 
 Projeto desenvolvido para praticar e aprimorar conhecimentos em programação e desenvolvimento web.
 
